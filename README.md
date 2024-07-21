@@ -3,5 +3,5 @@
 - 🔭 感兴趣的方向是安卓开发 | 大前端 | 车载 | framework
 - 🌱 学习安卓知识ing ...
 - 🤔 补足cs知识ing ...
-- ⚡ 正在寻找实习or工作机会
+- ⚡ Working for zyt(Dji Automotive) now
 
